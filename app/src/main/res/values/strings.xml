@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">American Football Scores App</string>
+    <string name="team_a_name">Team A</string>
+    <string name="team_a_scores_tv">0</string>
+    <string name="touch_down_btn">Touch Down</string>
+    <string name="field_goal_btn">Field Goal</string>
+    <string name="pat_btn">PAT</string>
+    <string name="safety_btn">Safety</string>
+    <string name="team_b_name">Team B</string>
+    <string name="team_b_scores_tv">0</string>
+    <string name="touch_down_team_b">Touch Down</string>
+    <string name="field_goal_team_b">Field Goal</string>
+    <string name="safety_team_b">Safety</string>
+    <string name="reset_btn">Reset</string>
+    <string name="pat_team_b">PAT</string>
+</resources>
